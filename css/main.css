@@ -71,3 +71,22 @@ a {
     padding: 20px;
 }
 
+/* 이용 안내 타깃 설정 */
+#intro:target{
+  background-color: rgb(245, 187, 195);
+  border-radius: 7px;
+}
+
+/* 객실 소개 타깃 설정 */
+#room:target{
+  background-color: rgb(245, 187, 195);
+  border-radius: 7px;
+}
+
+/* 예약 방법 및 요금 타깃 설정 */
+#reservaion:target{
+  background-color: rgb(245, 187, 195);
+  border-radius: 7px;
+}
+
+

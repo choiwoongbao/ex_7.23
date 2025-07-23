@@ -58,9 +58,30 @@ a {
     width: 400px;
    padding: 20px;
    margin: 50px auto;
+   background-color: rgb(248, 203, 210);
 }
 
+#singUp fieldset{
+  padding: 10px;
+  border: 1px solid black;
+}
 #singUp fieldset legend{
 font-size: 20px;
+font-weight: bold;
 padding: 0 10px;
+}
+
+#singUp li{
+  padding: 5px;
+}
+
+
+.user label{
+  display: inline-block;
+  width: 50px;
+}
+
+.user input{
+  padding: 1px;
+  border: 1px solid rgb(230, 205, 208);
 }
