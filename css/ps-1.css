@@ -60,6 +60,7 @@ a {
    margin: 50px auto;
 }
 
-#singUp legend{
-    
+#singUp fieldset legend{
+font-size: 20px;
+padding: 0 10px;
 }
